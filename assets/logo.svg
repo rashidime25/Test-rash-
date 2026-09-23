@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 88" role="img" aria-label="Mr Rashidi Movies & Series">
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#a100ff"/><stop offset="1" stop-color="#6414ff"/></linearGradient></defs>
+<path fill="url(#g)" d="M8 62V17l22-11 20 11v17L72 24v38L50 74 30 63v-18l-12 7v19zM28 25v21l11 6 0-21zm31 10v22l8-5V31z"/>
+<text x="86" y="43" fill="#f6f7fb" font-family="Arial,sans-serif" font-size="31" font-weight="800">Mr Rashidi</text>
+<text x="88" y="67" fill="#8d9aaa" font-family="Arial,sans-serif" font-size="14">Movies &amp; Series</text>
+</svg>
